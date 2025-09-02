@@ -1,7 +1,6 @@
 <h1 align="center">¡Hola! Soy Micaela Zara</h1>
-<h3 align="center">Desarrolladora Back-end | Java | Spring | Hibernate | C# | .NET | SQL Server</h3>
-
-- 🌱 Soy una desarrolladora Back-end con experiencia en Java, Spring, Hibernate, C#, .NET, MySQL y SQL Server.
+<h3 align="center">Téc. en desarrollo web | Desarrolladora Back-end <br>  
+  Java | Spring | Hibernate | C# | .NET | SQL Server</h3>
 
 <h3 align="left">Lenguajes y herramientas que utilizo:</h3>
 
@@ -19,15 +18,6 @@
   <a href="https://swagger.io/" target="_blank" rel="noreferrer"><img src="https://github.com/gilbarbara/logos/blob/main/logos/swagger.svg" alt="swagger" width="40" height="40"/></a>
 </p>
 
-<h4>Frontend</h4>
-<p align="left"> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> 
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/w3css/default.asp" target="blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/w3schools/w3schools-icon.svg" alt="w3schools" width="40" height="40"/></a> 
-</p>
-
 <h4>Herramientas:</h4>
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
@@ -35,11 +25,25 @@
   <a href="https://trello.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="trello" width="40" height="40"/></a>
 </p>
 
+<h3>¿En qué estoy trabajando ahora?</h3>
+<p>
+  Estoy desarrollando una <strong>API REST en ASP.NET Core</strong> diseñada para gestionar un catálogo de productos y permitir a los usuarios realizar órdenes de compra de manera segura y eficiente. 
+El sistema distingue entre <strong>usuarios regulares</strong> y <strong>administradores</strong>, ofreciendo a cada rol funcionalidades específicas según sus permisos. Cuenta con el siguiente stack tecnológico:
+  <ul>
+  <li><strong>Backend:</strong> ASP.NET Core (.NET 8).</li>
+  <li><strong>Base de datos:</strong> SQL Server.</li>
+  <li><strong>Mapeo de objetos:</strong> AutoMapper para convertir entidades a DTOs de manera eficiente.</li>
+  <li><strong>Autenticación y roles:</strong> Identity y JWT (JSON Web Tokens) para gestión de usuarios y permisos.</li>
+  <li><strong>Testing:</strong> xUnit y Moq para pruebas unitarias de la lógica de negocio.</li>
+  <li><strong>Gestión de dependencias:</strong> Inyección de dependencias de .NET para un código modular y mantenible.</li>
+</ul>
+</p>
+
 <h3 align="left">Cómo contactarme:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/micaelazara/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/micaelazara/" height="30" width="40" /></a>
 </p>
 
-- **zara_micaela@outlook.com**
+**zara_micaela@outlook.com**
 
 
