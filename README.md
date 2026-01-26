@@ -23,21 +23,33 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
   <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/></a>
   <a href="https://trello.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="trello" width="40" height="40"/></a>
+  <a href="https://swagger.io/" target="_blank" rel="noreferrer"><img src="https://github.com/get-icon/geticon/blob/master/icons/swagger.svg" alt="swagger" width="40" height="40"/></a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+</a>
+
 </p>
 
-<h3>¿En qué estoy trabajando ahora?</h3>
-<p>
-  Estoy desarrollando una <strong>API REST en ASP.NET Core</strong> diseñada para gestionar un catálogo de productos y permitir a los usuarios realizar órdenes de compra de manera segura y eficiente. 
-El sistema distingue entre <strong>usuarios regulares</strong> y <strong>administradores</strong>, ofreciendo a cada rol funcionalidades específicas según sus permisos. Cuenta con el siguiente stack tecnológico:
+  <h3>Experiencia profesional</h3>
+  <p><strong>Soy programadora web freelancer💻</strong></p>
+
   <ul>
-  <li><strong>Backend:</strong> ASP.NET Core (.NET 8).</li>
-  <li><strong>Base de datos:</strong> SQL Server.</li>
-  <li><strong>Mapeo de objetos:</strong> AutoMapper para convertir entidades a DTOs de manera eficiente.</li>
-  <li><strong>Autenticación y roles:</strong> Identity y JWT (JSON Web Tokens) para gestión de usuarios y permisos.</li>
-  <li><strong>Testing:</strong> xUnit y Moq para pruebas unitarias de la lógica de negocio.</li>
-  <li><strong>Gestión de dependencias:</strong> Inyección de dependencias de .NET para un código modular y mantenible.</li>
-</ul>
-</p>
+    <li>
+      Administro y gestiono de forma integral proyectos digitales, incluyendo
+      elaboración de presupuestos, planificación y coordinación con clientes.
+    </li>
+    <li>
+      Diseño y desarrollo sitios web orientados a mejorar la
+      experiencia de usuario (UX), la navegación y el rendimiento general,
+      aplicando principios de UI/UX, responsive design y buenas prácticas de accesibilidad.
+    </li>
+    <li>
+      Desarrollo soluciones a medida según los requerimientos, prioridades
+      y objetivos del cliente.
+    </li>
+  </ul>
+</section>
+
 
 <h3 align="left">Cómo contactarme:</h3>
 <p align="left">
