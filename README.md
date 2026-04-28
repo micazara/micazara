@@ -1,8 +1,8 @@
 <h1 align="center">¡Hola! Soy Micaela Zara</h1>
 <h3 align="center">Téc. en desarrollo web | Desarrolladora Back-end <br>  
-  Java | Spring | Hibernate | C# | .NET | SQL Server</h3>
+  Spring | .NET </h3>
 
-<h3 align="left">Lenguajes y herramientas que utilizo:</h3>
+<h3 align="left"Mi stack:</h3>
 
 <h4>Backend:</h4>
 <p align="left">
