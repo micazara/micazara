@@ -15,5 +15,6 @@
 
 **Contacto:**
 
-[Mi e-mail](mailto:zara_micaela@outlook.com)
-[LinkedIn](https://www.linkedin.com/in/micaelazara/)
+<a href="mailto:zara_micaela@outlook.com"><img src="https://img.shields.io/badge/e--mail-1D9E75?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"></a>
+<a href="https://www.linkedin.com/in/micaelazara/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
