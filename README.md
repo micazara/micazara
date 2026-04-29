@@ -13,6 +13,10 @@
 |-----|--------|--------|---------|---------|
 | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/swagger/swagger-original.svg" width="40"/> |
 
+**Estoy escuchando...**
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=kolijuty5&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=ffd6f6&bar_color_cover=true&mode=light)](https://github.com/kittinan/spotify-github-profile)
+
 **Contacto:**
 
 <a href="mailto:zara_micaela@outlook.com"><img src="https://img.shields.io/badge/e--mail-1D9E75?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"></a>
