@@ -5,13 +5,13 @@
 
 <h3 align="left">Mi stack:</h3>
 
-| Java | Spring | Hibernate | .NET | C# | SQL Server | PostgreSQL | Postman | Swagger |
-|------|--------|-----------|------|----|------------|------------|---------|---------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/> | <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/swagger/swagger-original.svg" width="40"/> |
+| Java | Spring | Hibernate | .NET | C# | SQL Server | PostgreSQL |
+|------|--------|-----------|------|----|------------|------------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/> | <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/> |
 
-| Git | GitHub | Trello | Postman |
-|-----|--------|--------|---------|
-| <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/> |
+| Git | GitHub | Trello | Postman | Swagger |
+|-----|--------|--------|---------|---------|
+| <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/swagger/swagger-original.svg" width="40"/> |
 
 **Contacto:**
 
