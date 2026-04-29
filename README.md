@@ -1,6 +1,10 @@
 <h1 align="center">¡Hola! Soy Micaela Zara</h1>
 <h3 align="center">Téc. en desarrollo web | Desarrolladora Back-end Jr. <br> Spring | .NET</h3>
 
+<p align="center">
+  <img src="./assets/c5c9b9d6-04ba-4869-ac1b-089eb9dbb118.png" width="200" alt="Mi foto"/>
+</p>
+
 <p>Soy <strong>desarrolladora web fullstack</strong> con experiencia en el desarrollo integral de proyectos. Trabajo en equipo de forma colaborativa, acompañando cada proyecto desde el relevamiento de requerimientos del cliente hasta la instalación y puesta en marcha en producción. Utilizo Spring y .NET para el desarrollo y mantenimiento de aplicaciones, gestionando la generación y actualización de ejecutables a lo largo del ciclo de vida del software. Cuento con un sólido manejo del entorno Windows, incluyendo la administración del sistema, gestión de procesos, usuarios y configuraciones, lo que me permite garantizar el correcto despliegue y funcionamiento de las aplicaciones directamente en los sistemas del cliente.</p>
 
 <h3 align="left">Mi stack:</h3>
