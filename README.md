@@ -1,21 +1,24 @@
 <h1 align="center">¡Hola! Soy Micaela Zara</h1>
 <h3 align="center">Téc. en desarrollo web | Desarrolladora Back-end Jr. <br> Spring | .NET</h3>
 
-<p align="center">
-  <img src="./assets/c5c9b9d6-04ba-4869-ac1b-089eb9dbb118.png" width="200" alt="Mi foto"/>
-</p>
-
-<p>Soy <strong>desarrolladora web fullstack</strong> con experiencia en el desarrollo integral de proyectos. Trabajo en equipo de forma colaborativa, acompañando cada proyecto desde el relevamiento de requerimientos del cliente hasta la instalación y puesta en marcha en producción. Utilizo Spring y .NET para el desarrollo y mantenimiento de aplicaciones, gestionando la generación y actualización de ejecutables a lo largo del ciclo de vida del software. Cuento con un sólido manejo del entorno Windows, incluyendo la administración del sistema, gestión de procesos, usuarios y configuraciones, lo que me permite garantizar el correcto despliegue y funcionamiento de las aplicaciones directamente en los sistemas del cliente.</p>
+<table border="0">
+  <tr>
+    <td>
+      <p>Soy <strong>desarrolladora web fullstack</strong> con experiencia en el desarrollo integral de proyectos. Trabajo en equipo de forma colaborativa, acompañando cada proyecto desde el relevamiento de requerimientos del cliente hasta la instalación y puesta en marcha en producción. Utilizo Spring y .NET para el desarrollo y mantenimiento de aplicaciones, gestionando la generación y actualización de ejecutables a lo largo del ciclo de vida del software. Cuento con un sólido manejo del entorno Windows, incluyendo la administración del sistema, gestión de procesos, usuarios y configuraciones, lo que me permite garantizar el correcto despliegue y funcionamiento de las aplicaciones directamente en los sistemas del cliente.</p>
+    </td>
+    <td width="220" align="center">
+      <img src="c5c9b9d6-04ba-4869-ac1b-089eb9dbb118.png" width="200" alt="Mi foto"/>
+    </td>
+  </tr>
+</table>
 
 <h3 align="left">Mi stack:</h3>
 
-| Java | Spring | Hibernate | .NET | C# | SQL Server | PostgreSQL |
-|------|--------|-----------|------|----|------------|------------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/> | <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/> |
-
-| Git | GitHub | Trello | Postman | Swagger |
-|-----|--------|--------|---------|---------|
-| <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/swagger/swagger-original.svg" width="40"/> |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,dotnet,cs,postgres,git,github,postman" />
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/swagger/swagger-original.svg" width="40"/>
+</p>
 
 **Estoy escuchando...**
 
